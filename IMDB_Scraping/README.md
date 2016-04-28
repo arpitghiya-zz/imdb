@@ -1,4 +1,4 @@
-- Modify the user variables at the top of the file and execute!
+Modify the user variables at the top of the file and execute!
 
 Enjoy!
 
